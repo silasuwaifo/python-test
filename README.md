@@ -1,2 +1,2 @@
 # python-test
-python test
+a python developer trainee program
